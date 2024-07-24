@@ -1,0 +1,6 @@
+{
+    "name": "rootiteam/locale-data",
+    "description": "Language resources used by Pancake",
+    "type": "library",
+    "require": {}
+}
